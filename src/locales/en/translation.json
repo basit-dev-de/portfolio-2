@@ -1,0 +1,136 @@
+{
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Basit Ali",
+    "title": "Senior Frontend Engineer",
+    "description": "I thrive at the intersection of design and engineering—translating complex ideas into smooth, user-friendly interfaces using modern JavaScript, TypeScript, React, and related ecosystems."
+  },
+  "navigation": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact Me",
+    "viewWork": "View Work"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm Basit Ali, a Senior Frontend JavaScript developer with 6+ years of experience building reliable, scalable solutions. Currently working remotely at S&P Global, I specialize in creating modern, responsive web applications.",
+    "location": "Berlin, Germany",
+    "email": "basit.ali@toptal.com",
+    "phone": "+49 162 851 0633",
+    "linkedin": "linkedin.com/in/basit-ali-b61425354",
+    "award": "Gold Medalist - Bachelor of Science in Computer Science",
+    "languages": "Languages",
+    "englishLanguage": "English",
+    "englishLevel": "Full Professional Proficiency",
+    "germanLanguage": "German",
+    "germanLevel": "Elementary Proficiency",
+    "urduLanguage": "Urdu",
+    "urduLevel": "Native or Bilingual Proficiency"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "achievements": "Key Achievements",
+    "technologies": "Technologies Used",
+    "spGlobal": {
+      "company": "S&P Global",
+      "title": "Senior Engineer",
+      "period": "06/2023 - Present",
+      "location": "Remote",
+      "description": "S&P Global provides market data, technology solutions, and financial insights to businesses and governments worldwide.",
+      "achievement1": "Develop scalable, responsive web applications using React, Next.js, TypeScript, Redux, and Storybook.",
+      "achievement2": "Build reusable UI components and ensure cross-browser compatibility using Bootstrap, Tailwind, MUI, CSS-in-JS.",
+      "achievement3": "Implement state management with Redux, Context API, and enhance performance, accessibility, and maintainability through TDD, Jest, Cypress, and micro frontends.",
+      "achievement4": "Lead Agile development with daily scrums, ensuring seamless collaboration across teams.",
+      "achievement5": "Contribute to this premier financial intelligence platform by developing scalable, modular frontends with React, Redux, and micro frontends, ensuring high performance and reliability."
+    },
+    "iplex": {
+      "company": "iPlex",
+      "title": "Frontend Developer",
+      "period": "01/2019 - 06/2023",
+      "location": "Islamabad",
+      "description": "iPlex is a boutique digital agency specializing in software development, web applications, and digital marketing for businesses in the U.S.",
+      "achievement1": "Developed and maintained React-based applications with a focus on performance, UX, and cross-platform compatibility.",
+      "achievement2": "Created scalable, themable web applications for easy project replication.",
+      "achievement3": "Conducted daily code reviews, ensuring stability, performance, and adherence to Agile methodologies.",
+      "achievement4": "Led frontend development for Al Habib Pharmacy E-commerce Platform using Next.js, TypeScript, Tailwind CSS, Redux, and optimized for SEO and performance.",
+      "achievement5": "Developed Salam Telecom DMS Portal, a centralized data management system for transactions, balance recharges, and user activity, improving workflow efficiency."
+    }
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "frontendFrameworks": "Frontend Frameworks & Libraries",
+    "frontendDescription": "Expert in modern JavaScript frameworks and libraries for building interactive, responsive web applications.",
+    "uiStyling": "UI & Styling",
+    "uiDescription": "Proficient in modern CSS frameworks and styling methodologies for creating visually appealing interfaces.",
+    "stateManagement": "State Management & Data Fetching",
+    "stateDescription": "Skilled in managing complex application state and efficient data handling.",
+    "testingTools": "Testing & Development Tools",
+    "testingDescription": "Experienced with modern testing frameworks and development tools for ensuring quality code.",
+    "architecture": "Frontend Architecture & Performance",
+    "architectureTitle": "Architecture",
+    "modularDesign": "Modular Design",
+    "componentArchitecture": "Component-Based Architecture",
+    "designPatterns": "Design Patterns",
+    "microfrontends": "Microfrontends",
+    "performanceTitle": "Performance Optimization",
+    "buildTools": "Webpack, Babel, Vite",
+    "codeSplitting": "Code Splitting",
+    "lazyLoading": "Lazy Loading",
+    "webVitals": "Web Vitals"
+  },
+  "projects": {
+    "title": "Projects",
+    "role": "Lead Frontend Developer",
+    "developer": "Frontend Developer",
+    "technologies": "Technologies",
+    "list": [
+      {
+        "title": "Capital IQ Pro",
+        "description": "Premier financial intelligence platform for businesses, featuring scalable, modular frontends with React, Redux, and micro frontends."
+      },
+      {
+        "title": "Al Habib Pharmacy E-commerce",
+        "description": "Feature-rich e-commerce platform for pharmaceutical products with SEO optimization and responsive design."
+      },
+      {
+        "title": "Salam Telecom DMS Portal",
+        "description": "Centralized data management system for transactions, balance recharges, and user activity tracking, improving workflow efficiency."
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "sectionTitle": "Education & Awards",
+    "degree": "Bachelor of Science in Computer Science",
+    "university": "Islamia College University Peshawar, Pakistan",
+    "period": "2016 - 2020",
+    "description": "Graduated with a 3.89 CGPA and honored as the Gold Medalist of my batch.",
+    "graduationDetails": "Completed my degree with a 3.89 CGPA, graduating as the Gold Medalist of my batch.",
+    "focusAreas": "Focused on building a strong foundation in computer science fundamentals, including algorithms, data structures, and software design principles.",
+    "awardsTitle": "Awards & Honors",
+    "goldMedalTitle": "Gold Medal",
+    "awardYear": "2020",
+    "goldMedalDescription": "Awarded for achieving the highest CGPA in the Computer Science department.",
+    "professionalDevelopmentTitle": "Professional Development",
+    "ongoing": "Ongoing",
+    "professionalDevelopmentDescription": "Continually expanding expertise in AI, cybersecurity, cloud computing, and DevOps through professional training and certifications."
+  },
+  "footer": {
+    "getInTouch": "Get In Touch",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "phone": "Phone",
+    "github": "GitHub",
+    "copyright": "© {{year}} Basit Ali. All rights reserved.",
+    "role": "Senior Frontend Engineer"
+  },
+  "language": {
+    "en": "English",
+    "de": "German",
+    "switch": "Switch to {{lang}} language"
+  },
+  "scrollToTop": "Scroll to top"
+}

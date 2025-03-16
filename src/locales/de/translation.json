@@ -1,0 +1,136 @@
+{
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "name": "Basit Ali",
+    "title": "Senior Frontend Entwickler",
+    "description": "Ich arbeite an der Schnittstelle von Design und Entwicklung und übersetze komplexe Ideen in intuitive, benutzerfreundliche Oberflächen mit modernem JavaScript, TypeScript, React und verwandten Technologien."
+  },
+  "navigation": {
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "skills": "Fähigkeiten",
+    "projects": "Projekte",
+    "education": "Ausbildung",
+    "contact": "Kontaktiere mich",
+    "viewWork": "Projekte ansehen"
+  },
+  "about": {
+    "title": "Über Mich",
+    "description": "Ich bin Basit Ali, ein Senior Frontend JavaScript-Entwickler mit über 6 Jahren Erfahrung im Aufbau zuverlässiger, skalierbarer Lösungen. Derzeit arbeite ich remote bei S&P Global und bin spezialisiert auf die Erstellung moderner, responsiver Webanwendungen.",
+    "location": "Berlin, Deutschland",
+    "email": "basit.ali@toptal.com",
+    "phone": "+49 162 851 0633",
+    "linkedin": "linkedin.com/in/basit-ali-b61425354",
+    "award": "Goldmedaillengewinner - Bachelor of Science in Informatik",
+    "languages": "Sprachen",
+    "englishLanguage": "Englisch",
+    "englishLevel": "Fließend",
+    "germanLanguage": "Deutsch",
+    "germanLevel": "Grundkenntnisse",
+    "urduLanguage": "Urdu",
+    "urduLevel": "Muttersprache"
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+    "achievements": "Wichtige Erfolge",
+    "technologies": "Verwendete Technologien",
+    "spGlobal": {
+      "company": "S&P Global",
+      "title": "Senior Entwickler",
+      "period": "06/2023 - Heute",
+      "location": "Remote",
+      "description": "S&P Global bietet Marktdaten, Technologielösungen und Finanzeinblicke für Unternehmen und Regierungen weltweit.",
+      "achievement1": "Entwicklung skalierbarer, responsiver Webanwendungen mit React, Next.js, TypeScript, Redux und Storybook.",
+      "achievement2": "Erstellung wiederverwendbarer UI-Komponenten und Sicherstellung der browserübergreifenden Kompatibilität mit Bootstrap, Tailwind, MUI, CSS-in-JS.",
+      "achievement3": "Implementierung von State Management mit Redux, Context API und Verbesserung von Leistung, Barrierefreiheit und Wartbarkeit durch TDD, Jest, Cypress und Micro-Frontends.",
+      "achievement4": "Leitung der agilen Entwicklung mit täglichen Scrums und Sicherstellung einer nahtlosen Zusammenarbeit zwischen Teams.",
+      "achievement5": "Beitrag zu dieser erstklassigen Finanzinformationsplattform durch die Entwicklung skalierbarer, modularer Frontends mit React, Redux und Micro-Frontends, die hohe Leistung und Zuverlässigkeit gewährleisten."
+    },
+    "iplex": {
+      "company": "iPlex",
+      "title": "Frontend Entwickler",
+      "period": "01/2019 - 06/2023",
+      "location": "Islamabad",
+      "description": "iPlex ist eine Boutique-Digitalagentur, die sich auf Softwareentwicklung, Webanwendungen und digitales Marketing für Unternehmen in den USA spezialisiert hat.",
+      "achievement1": "Entwicklung und Wartung von React-basierten Anwendungen mit Fokus auf Leistung, UX und plattformübergreifende Kompatibilität.",
+      "achievement2": "Erstellung skalierbarer, thematischer Webanwendungen für einfache Projektreplikation.",
+      "achievement3": "Durchführung täglicher Code-Reviews zur Sicherstellung von Stabilität, Leistung und Einhaltung agiler Methoden.",
+      "achievement4": "Leitung der Frontend-Entwicklung für die Al Habib Pharmacy E-Commerce-Plattform mit Next.js, TypeScript, Tailwind CSS, Redux und Optimierung für SEO und Leistung.",
+      "achievement5": "Entwicklung des Salam Telecom DMS-Portals, eines zentralisierten Datenmanagementsystems für Transaktionen, Guthaben-Aufladungen und Benutzeraktivitäten, zur Verbesserung der Arbeitsabläufe."
+    }
+  },
+  "skills": {
+    "title": "Fähigkeiten & Expertise",
+    "frontendFrameworks": "Frontend-Frameworks & Bibliotheken",
+    "frontendDescription": "Experte für moderne JavaScript-Frameworks und -Bibliotheken zum Erstellen interaktiver, responsiver Webanwendungen.",
+    "uiStyling": "UI & Styling",
+    "uiDescription": "Erfahren mit modernen CSS-Frameworks und Styling-Methoden zur Erstellung visuell ansprechender Oberflächen.",
+    "stateManagement": "State Management & Datenabruf",
+    "stateDescription": "Erfahren im Umgang mit komplexem Anwendungsstatus und effizientem Datenhandling.",
+    "testingTools": "Test- & Entwicklungswerkzeuge",
+    "testingDescription": "Erfahrung mit modernen Test-Frameworks und Entwicklungstools zur Sicherstellung von Codequalität.",
+    "architecture": "Frontend-Architektur & Performance",
+    "architectureTitle": "Architektur",
+    "modularDesign": "Modulares Design",
+    "componentArchitecture": "Komponentenbasierte Architektur",
+    "designPatterns": "Design-Muster",
+    "microfrontends": "Micro-Frontends",
+    "performanceTitle": "Performance-Optimierung",
+    "buildTools": "Webpack, Babel, Vite",
+    "codeSplitting": "Code-Splitting",
+    "lazyLoading": "Lazy Loading",
+    "webVitals": "Web Vitals"
+  },
+  "projects": {
+    "title": "Projekte",
+    "role": "Leitender Frontend-Entwickler",
+    "developer": "Frontend-Entwickler",
+    "technologies": "Technologien",
+    "list": [
+      {
+        "title": "Capital IQ Pro",
+        "description": "Führende Finanzinformationsplattform für Unternehmen mit skalierbaren, modularen Frontends mit React, Redux und Micro-Frontends."
+      },
+      {
+        "title": "Al Habib Apotheke E-Commerce",
+        "description": "Funktionsreiche E-Commerce-Plattform für pharmazeutische Produkte mit SEO-Optimierung und responsivem Design."
+      },
+      {
+        "title": "Salam Telecom DMS Portal",
+        "description": "Zentrales Datenmanagementsystem für Transaktionen, Guthaben-Aufladungen und Benutzeraktivitätsverfolgung zur Verbesserung der Arbeitsabläufe."
+      }
+    ]
+  },
+  "education": {
+    "title": "Ausbildung",
+    "sectionTitle": "Ausbildung & Auszeichnungen",
+    "degree": "Bachelor of Science in Informatik",
+    "university": "Islamia College University Peshawar, Pakistan",
+    "period": "2016 - 2020",
+    "description": "Abschluss mit einem GPA von 3,89 und Auszeichnung als Goldmedaillengewinner meines Jahrgangs.",
+    "graduationDetails": "Abschluss meines Studiums mit einem GPA von 3,89 als Goldmedaillengewinner meines Jahrgangs.",
+    "focusAreas": "Fokus auf den Aufbau einer soliden Grundlage in Informatik-Grundlagen, einschließlich Algorithmen, Datenstrukturen und Softwaredesign-Prinzipien.",
+    "awardsTitle": "Auszeichnungen & Ehrungen",
+    "goldMedalTitle": "Goldmedaille",
+    "awardYear": "2020",
+    "goldMedalDescription": "Verliehen für das Erreichen des höchsten GPA in der Informatik-Abteilung.",
+    "professionalDevelopmentTitle": "Berufliche Weiterbildung",
+    "ongoing": "Fortlaufend",
+    "professionalDevelopmentDescription": "Kontinuierliche Erweiterung der Expertise in KI, Cybersicherheit, Cloud Computing und DevOps durch professionelle Schulungen und Zertifizierungen."
+  },
+  "footer": {
+    "getInTouch": "Kontakt aufnehmen",
+    "email": "E-Mail",
+    "linkedin": "LinkedIn",
+    "phone": "Telefon",
+    "github": "GitHub",
+    "copyright": "© {{year}} Basit Ali. Alle Rechte vorbehalten.",
+    "role": "Senior Frontend Entwickler"
+  },
+  "language": {
+    "en": "Englisch",
+    "de": "Deutsch",
+    "switch": "Zu {{lang}} wechseln"
+  },
+  "scrollToTop": "Nach oben scrollen"
+}
