@@ -31,7 +31,7 @@ const Hero = () => {
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <div className="inline-block mb-6 relative">
           <img
-            src="/profile.jpg"
+            src="./profile.jpg"
             alt={t("hero.name")}
             className="w-40 h-40 rounded-full border-4 border-primary/50 object-cover animate-float"
           />
